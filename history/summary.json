@@ -1,0 +1,85 @@
+[
+  {
+    "name": "PSUT Archive",
+    "url": "$FRONTEND_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "psut-archive",
+    "status": "up",
+    "uptime": "92.42%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "92.42%",
+    "uptimeMonth": "92.42%",
+    "uptimeYear": "92.42%",
+    "time": 960,
+    "timeDay": 1095,
+    "timeWeek": 960,
+    "timeMonth": 960,
+    "timeYear": 960,
+    "dailyMinutesDown": {
+      "2023-09-27": 38,
+      "2023-09-25": 30,
+      "2023-09-24": 354
+    }
+  },
+  {
+    "name": "Admin Page",
+    "url": "$ADMIN_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "admin-page",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 923,
+    "timeDay": 923,
+    "timeWeek": 923,
+    "timeMonth": 923,
+    "timeYear": 923,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "API",
+    "url": "$API_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "api",
+    "status": "up",
+    "uptime": "94.48%",
+    "uptimeDay": "86.06%",
+    "uptimeWeek": "94.48%",
+    "uptimeMonth": "94.48%",
+    "uptimeYear": "94.48%",
+    "time": 1647,
+    "timeDay": 2446,
+    "timeWeek": 1647,
+    "timeMonth": 1647,
+    "timeYear": 1647,
+    "dailyMinutesDown": {
+      "2023-09-27": 201,
+      "2023-09-25": 30,
+      "2023-09-24": 77
+    }
+  },
+  {
+    "name": "CDN",
+    "url": "$RESOURCES_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "cdn",
+    "status": "up",
+    "uptime": "87.43%",
+    "uptimeDay": "51.41%",
+    "uptimeWeek": "87.43%",
+    "uptimeMonth": "87.43%",
+    "uptimeYear": "87.43%",
+    "time": 504,
+    "timeDay": 715,
+    "timeWeek": 504,
+    "timeMonth": 504,
+    "timeYear": 504,
+    "dailyMinutesDown": {
+      "2023-09-28": 339,
+      "2023-09-27": 361
+    }
+  }
+]

@@ -1,0 +1,27 @@
+owner: Marje3PSUT
+repo: psutarchive-status
+
+sites:
+  - name: PSUT Archive
+    url: $FRONTEND_URL
+  - name: Admin Page
+    url: $ADMIN_URL
+  - name: API
+    url: $API_URL
+  - name: CDN
+    url: $RESOURCES_URL
+    expectedStatusCodes:
+      - 403
+
+status-website:
+  cname: status.psutarchive.com
+  themeUrl: https://cdn.statically.io/gh/Marje3PSUT/psutarchive-status/master/assets/responsive-theme.css
+  logoUrl: https://i.imgur.com/6stypOt.jpg
+  name: PSUT Archive Status
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+# https://upptime.js.org/docs/configuration
