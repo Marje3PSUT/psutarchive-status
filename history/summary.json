@@ -40,18 +40,20 @@
     "url": "$API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 757,
-    "timeDay": 624,
-    "timeWeek": 757,
-    "timeMonth": 757,
-    "timeYear": 757,
-    "dailyMinutesDown": {}
+    "time": 3094,
+    "timeDay": 10040,
+    "timeWeek": 3094,
+    "timeMonth": 3094,
+    "timeYear": 3094,
+    "dailyMinutesDown": {
+      "2023-10-04": 0
+    }
   },
   {
     "name": "CDN",
