@@ -58,18 +58,19 @@
     "url": "$RESOURCES_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 837,
-    "timeDay": 316,
-    "timeWeek": 341,
-    "timeMonth": 503,
-    "timeYear": 837,
+    "time": 830,
+    "timeDay": 369,
+    "timeWeek": 349,
+    "timeMonth": 501,
+    "timeYear": 830,
     "dailyMinutesDown": {
+      "2023-11-25": 0,
       "2023-11-20": 23
     }
   }
