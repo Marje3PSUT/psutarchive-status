@@ -1,7 +1,7 @@
 url: $RESOURCES_URL
-status: up
-code: 403
-responseTime: 316
-lastUpdated: 2023-11-24T23:14:04.875Z
+status: down
+code: 404
+responseTime: 422
+lastUpdated: 2023-11-25T04:00:09.587Z
 startTime: 2023-09-24T09:22:03.659Z
 generator: Upptime <https://github.com/upptime/upptime>
