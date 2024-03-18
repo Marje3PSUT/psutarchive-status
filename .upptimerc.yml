@@ -8,10 +8,6 @@ sites:
     url: https://editor.psutarchive.com
   - name: API
     url: https://api.psutarchive.com
-  - name: CDN
-    url: $RESOURCES_URL
-    expectedStatusCodes:
-      - 403
 
 status-website:
   cname: status.psutarchive.com
@@ -22,6 +18,6 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/Marje3Psut
 
 # https://upptime.js.org/docs/configuration
