@@ -8,6 +8,8 @@ sites:
     url: https://editor.psutarchive.com
   - name: API
     url: https://api.psutarchive.com
+    expectedStatusCodes:
+      - 404
 
 status-website:
   cname: status.psutarchive.com
