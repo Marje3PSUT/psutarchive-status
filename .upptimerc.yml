@@ -3,11 +3,11 @@ repo: psutarchive-status
 
 sites:
   - name: PSUT Archive
-    url: $FRONTEND_URL
-  - name: Admin Page
-    url: $ADMIN_URL
+    url: https://psutarchive.com
+  - name: Editor Page
+    url: https://editor.psutarchive.com
   - name: API
-    url: $API_URL
+    url: https://api.psutarchive.com
   - name: CDN
     url: $RESOURCES_URL
     expectedStatusCodes:
