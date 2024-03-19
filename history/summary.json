@@ -5,22 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/psutarchive.com.ico",
     "slug": "psut-archive",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 1302,
-    "timeDay": 762,
-    "timeWeek": 1444,
-    "timeMonth": 1440,
-    "timeYear": 1302,
-    "dailyMinutesDown": {
-      "2024-03-18": 526,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 667
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1299,
+    "timeDay": 761,
+    "timeWeek": 1307,
+    "timeMonth": 1415,
+    "timeYear": 1299,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Editor Page",
@@ -33,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 569,
-    "timeWeek": 569,
-    "timeMonth": 569,
-    "timeYear": 569,
+    "time": 595,
+    "timeDay": 595,
+    "timeWeek": 595,
+    "timeMonth": 595,
+    "timeYear": 595,
     "dailyMinutesDown": {}
   },
   {
@@ -46,21 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.psutarchive.com.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 920,
-    "timeDay": 544,
-    "timeWeek": 798,
-    "timeMonth": 795,
-    "timeYear": 920,
-    "dailyMinutesDown": {
-      "2024-03-18": 526,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 667
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 918,
+    "timeDay": 571,
+    "timeWeek": 757,
+    "timeMonth": 792,
+    "timeYear": 918,
+    "dailyMinutesDown": {}
   }
 ]
