@@ -4,19 +4,19 @@
     "url": "https://psutarchive.com",
     "icon": "https://icons.duckduckgo.com/ip3/psutarchive.com.ico",
     "slug": "psut-archive",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1255,
-    "timeDay": 715,
-    "timeWeek": 864,
-    "timeMonth": 996,
-    "timeYear": 1255,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "96.21%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1254,
+    "timeDay": 887,
+    "timeWeek": 888,
+    "timeMonth": 998,
+    "timeYear": 1254,
     "dailyMinutesDown": {
-      "2024-04-10": 0
+      "2024-04-10": 55
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://editor.psutarchive.com",
     "icon": "https://icons.duckduckgo.com/ip3/editor.psutarchive.com.ico",
     "slug": "editor-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 489,
-    "timeWeek": 663,
-    "timeMonth": 680,
-    "timeYear": 680,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "96.24%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 683,
+    "timeDay": 620,
+    "timeWeek": 674,
+    "timeMonth": 683,
+    "timeYear": 683,
     "dailyMinutesDown": {
-      "2024-04-10": 0
+      "2024-04-10": 54
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.psutarchive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.psutarchive.com.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "96.23%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 891,
-    "timeDay": 538,
-    "timeWeek": 692,
-    "timeMonth": 694,
+    "timeDay": 652,
+    "timeWeek": 702,
+    "timeMonth": 696,
     "timeYear": 891,
     "dailyMinutesDown": {
-      "2024-04-10": 0
+      "2024-04-10": 54
     }
   }
 ]
