@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/psutarchive.com.ico",
     "slug": "psut-archive",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "99.90%",
-    "time": 1233,
-    "timeDay": 1258,
+    "uptimeYear": "99.91%",
+    "time": 1231,
+    "timeDay": 769,
     "timeWeek": 1094,
-    "timeMonth": 966,
-    "timeYear": 1233,
+    "timeMonth": 965,
+    "timeYear": 1231,
     "dailyMinutesDown": {
       "2024-04-10": 55
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.91%",
-    "time": 697,
-    "timeDay": 810,
-    "timeWeek": 799,
-    "timeMonth": 710,
-    "timeYear": 697,
+    "time": 694,
+    "timeDay": 574,
+    "timeWeek": 803,
+    "timeMonth": 708,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2024-04-10": 54
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.91%",
-    "time": 875,
-    "timeDay": 822,
-    "timeWeek": 779,
-    "timeMonth": 703,
-    "timeYear": 875,
+    "time": 873,
+    "timeDay": 508,
+    "timeWeek": 776,
+    "timeMonth": 700,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2024-04-10": 54
     }
