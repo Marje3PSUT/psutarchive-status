@@ -4,9 +4,9 @@
     "url": "https://psutarchive.com",
     "icon": "https://icons.duckduckgo.com/ip3/psutarchive.com.ico",
     "slug": "psut-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 1139,
     "timeYear": 1186,
     "dailyMinutesDown": {
+      "2024-07-09": 0,
       "2024-04-10": 55
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://editor.psutarchive.com",
     "icon": "https://icons.duckduckgo.com/ip3/editor.psutarchive.com.ico",
     "slug": "editor-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -36,6 +37,7 @@
     "timeMonth": 681,
     "timeYear": 671,
     "dailyMinutesDown": {
+      "2024-07-09": 0,
       "2024-04-10": 54
     }
   },
@@ -44,7 +46,7 @@
     "url": "https://api.psutarchive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.psutarchive.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,6 +58,7 @@
     "timeMonth": 663,
     "timeYear": 816,
     "dailyMinutesDown": {
+      "2024-07-09": 0,
       "2024-04-10": 54
     }
   }
